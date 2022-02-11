@@ -1,0 +1,21 @@
+Alex, hockey , rugby , baseball
+Beth, soccer, golf, basketball
+Chris, hockey, soccer, basketball
+Dave, hockey, golf
+Ellen , soccer , rugby, baseball
+Fred , hockey, soccer
+Gerald , soccer
+Helen , soccer
+Ian , hockey, rugby, golf, baseball , basketball
+Jane , hockey, soccer
+Keith , soccer, rugby
+Linda , hockey, soccer , basketball
+Mike , rugby
+Nathan , hockey, soccer
+Owen , hockey, soccer
+Paula , hockey, golf
+Robyn, hockey , rugby, baseball
+Sam , soccer, rugby
+Terry , hockey, soccer
+Violet , hockey
+William, soccer, golf
